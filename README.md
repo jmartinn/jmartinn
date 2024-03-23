@@ -1,22 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Juan 👋
 
-## 👨‍💻 About Me
 I'm a passionate frontend developer and tech enthusiast. At 22, I'm exploring the vast world of web development, diving into open-source projects, and sharing my journey along the way. Vim enthusiast, note-taking aficionado, and always on the lookout for new technologies to master.
 
 - 🌱 I’m currently learning **[Technology or Framework]**
 - 👯 I’m looking to collaborate on **[Type of Projects]**
 - 💬 Ask me about **[Topic]**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 📫 How to reach me: **[juamp_m@hotmail.com]**
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+
 <!-- Add or remove technologies as per your expertise -->
 
 ## 📈 GitHub Stats
