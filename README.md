@@ -4,12 +4,8 @@ I'm a passionate frontend developer and tech enthusiast. At 22, I'm exploring th
 
 - 🌱 I’m currently  **[Technology or Framework]**
 - 💬 Ask me about **[anything]**, I'm happy to help
-- 📫 How to reach me: **[juamp_m@hotmail.com]**
+- 📧 How to reach me: **[juamp_m@hotmail.com]**
 
-
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juampemartin)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/juamp_m)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,3 +21,6 @@ I'm a passionate frontend developer and tech enthusiast. At 22, I'm exploring th
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
+### 🗞️ &nbsp;Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juampemartin)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/juamp_m)
