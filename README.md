@@ -2,7 +2,7 @@
 
 I'm a passionate frontend developer and tech enthusiast. At 22, I'm exploring the vast world of web development, diving into open-source projects, and sharing my journey along the way. Vim enthusiast, note-taking aficionado, and always on the lookout for new technologies to master.
 
-- 🌱 I’m currently learning **NOSTR**
+- 🌱 I’m currently learning about **NOSTR**
 - 💬 Ask me about **anything**, I'm happy to help
 - 📧 How to reach me: **juamp_m@hotmail.com**
 
