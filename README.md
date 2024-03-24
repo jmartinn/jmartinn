@@ -21,10 +21,10 @@ I'm a passionate frontend developer and tech enthusiast. At 22, I'm exploring th
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/)&nbsp;
 [![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)](https://www.vercel.com/)&nbsp;
+[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)](https://www.digitalocean.com/)&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)](https://www.postgresql.org/)&nbsp;
 [![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)](https://www.redis.io/)&nbsp;
-[![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-05122A?style=flat&logo=digitalocean)](https://www.digitalocean.com/)&nbsp;
 
 ### 🗞️ &nbsp;Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juampemartin)
