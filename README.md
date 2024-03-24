@@ -2,15 +2,16 @@
 
 I'm a passionate frontend developer and tech enthusiast. At 22, I'm exploring the vast world of web development, diving into open-source projects, and sharing my journey along the way. Vim enthusiast, note-taking aficionado, and always on the lookout for new technologies to master.
 
-- 🌱 I’m currently learning **[NOSTR]**
-- 💬 Ask me about **[anything]**, I'm happy to help
-- 📧 How to reach me: **[juamp_m@hotmail.com]**
+- 🌱 I’m currently learning **NOSTR**
+- 💬 Ask me about **anything**, I'm happy to help
+- 📧 How to reach me: **juamp_m@hotmail.com**
 
 
 ### 🛠 &nbsp;Tech Stack
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)&nbsp;
+[![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)](https://www.lua.org/)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)](https://www.oracle.com/java/)&nbsp;
 [![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/)&nbsp;
 [![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)](https://nextjs.org/)&nbsp;
