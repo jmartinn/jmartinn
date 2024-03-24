@@ -16,16 +16,16 @@ I'm a passionate frontend developer and tech enthusiast. At 22, I'm exploring th
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 <!-- Add or remove technologies as per your expertise -->
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmartinn&show_icons=true&theme=tokyonight)
 
 ## 🌐 Socials
 
