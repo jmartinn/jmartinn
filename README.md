@@ -29,4 +29,4 @@ I'm a passionate software developer and tech enthusiast. At 22, I'm exploring th
 
 ### 🗞️ &nbsp;Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juampemartin)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/juamp_m)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jmartinn07)
