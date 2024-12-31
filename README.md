@@ -2,7 +2,7 @@
 
 Turning code into creative solutions, one line at a time. Fueled by curiosity and a love for well-crafted systems, I’m constantly chasing the fine balance between function and form in the tech world
 
-- 🌱 I’m currently learning about **automation**
+- 🌱 I’m currently learning about **NOSTR**
 - 💬 Ask me about **anything**, I'm happy to help
 - 📧 How to reach me: **juamp_m@hotmail.com**
 
