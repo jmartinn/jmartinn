@@ -10,7 +10,9 @@ Turning code into creative solutions, one line at a time. Fueled by curiosity an
 ### 🛠 &nbsp;Tech Stack
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
+[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](https://www.php.net/)&nbsp;
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://reactjs.org/)&nbsp;
+[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](https://laravel.com/)&nbsp;
 [![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)](https://tailwindcss.com/)&nbsp;
 [![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/)&nbsp;
 [![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim&logoColor=019733)](https://www.vim.org/)&nbsp;
