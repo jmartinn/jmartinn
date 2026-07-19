@@ -1,25 +1,30 @@
-### Hi there, I'm Juan 👋
+### Hi, I'm Juan 👋
 
-Turning code into creative solutions, one line at a time. Fueled by curiosity and a love for well-crafted systems, I’m constantly chasing the fine balance between function and form in the tech world
+Frontend engineer by trade, systems tinkerer by everything else. I build
+local-first apps, run a GitOps homelab that quietly powers half my life,
+and reverse-engineer the gadgets in my house when they annoy me.
 
-- 🌱 I’m currently learning about **Effect TS**
-- 💬 Ask me about **anything**, I'm happy to help
-- 📧 How to reach me: **juamp_m@hotmail.com**
+**Now**
 
+- 📱 Shipping [Cadence](https://github.com/jmartinn/cadence) — subscription
+  tracking & month-end balance forecasts, native SwiftUI, no bank linking
+- 📚 Building a Telegram librarian for my girlfriend — sends books to her Kindle and chats about them without spoilers
+- 📝 Writing at [jmartinn.com](https://jmartinn.com) — engineering,
+  homelabs, and whatever I broke this month
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Stack
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
-[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](https://www.php.net/)&nbsp;
-[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://reactjs.org/)&nbsp;
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](https://react.dev/)&nbsp;
+[![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/)&nbsp;
+[![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)](https://www.swift.org/)&nbsp;
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)](https://kubernetes.io/)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)](https://www.postgresql.org/)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](https://laravel.com/)&nbsp;
 [![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)](https://tailwindcss.com/)&nbsp;
-[![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)](https://nodejs.org/)&nbsp;
-[![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim&logoColor=019733)](https://www.vim.org/)&nbsp;
-[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/)&nbsp;
-[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp;
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)](https://www.postgresql.org/)&nbsp;
+[![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim&logoColor=57A143)](https://neovim.io/)&nbsp;
 
-### 🗞️ &nbsp;Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juampemartin)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jmartinn07)
+### 📫 Reach me
+
+**juamp_m@hotmail.com** · everything else at [jmartinn.com](https://jmartinn.com)
