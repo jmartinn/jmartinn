@@ -1,22 +1,15 @@
-# Juan
+# Juan Pedro
 
-I'm a frontend engineer. Most of my work is in TypeScript and React, but
-my interests extend to backend development, infrastructure, and how the
-software and hardware I use actually work.
+Most of my work has been frontend, though the problems rarely stay
+there. They lead further down the stack, and I tend to follow until
+something makes sense. A device at home that misbehaves gets opened up;
+a service that disappears gets replaced by one I run myself. Hence the
+homelab, and the habit of building things that work offline first.
 
-## Outside work
+Writing code is no longer the hard part. Figuring out what is actually
+wrong, and why, still is. That has always been the job I gravitate
+toward, and the one I want to keep getting better at.
 
-I build local-first apps and spend time reverse-engineering devices I own
-to understand their behavior and change what I can. I also run a GitOps
-homelab.
-
-## Tools
-
-TypeScript, React, and Node.js for web development. I've also worked with
-Swift, Python, Laravel, PostgreSQL, and Kubernetes. My editor is Neovim.
-
-## Writing and contact
-
-I write about engineering at [jmartinn.com](https://jmartinn.com).
-
-You can reach me at [juamp_m@hotmail.com](mailto:juamp_m@hotmail.com).
+Not a designer, but bad details are hard for me to ignore. Neovim,
+occasional writing at [jmartinn.com](https://jmartinn.com), and a slow
+start in open source.
